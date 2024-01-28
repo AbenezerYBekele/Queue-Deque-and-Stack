@@ -1,6 +1,6 @@
-# Queue-Deque-and-Stack
+# Queue-Deque-and-Stack Implementation
 
-This repository contains the implementation of Queue, Deque, and Stack data structures in Java.
+This repository showcases my coursework project completed at the University of Wisconsin-River Falls for the Data Structures and Algorithms course. It encompasses the implementation of Queue, Deque, and Stack data structures in Java.
 
 ## Usage
 
@@ -9,16 +9,16 @@ This repository contains the implementation of Queue, Deque, and Stack data stru
 3. Compile the source code using `javac queue_deque_stack.java`.
 4. Run the compiled code using `java queue_deque_stack`.
 
-## Contributing
+## How to Contribute
 
-Contributions are welcome! Please follow the steps below:
+Contributions to enhance and improve this project are highly encouraged! Follow these steps:
 
 1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Test your changes.
+2. Create a new branch for your contributions.
+3. Implement your changes.
+4. Test your changes thoroughly.
 5. Submit a pull request.
 
 ## License
 
-This project is licensed under Abenezer Y Bekele License - see the LICENSE file for details.
+This coursework project is licensed under the Abenezer Y Bekele License. Refer to the [LICENSE](LICENSE) file for more details.
