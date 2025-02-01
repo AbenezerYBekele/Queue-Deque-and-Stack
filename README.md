@@ -1,4 +1,4 @@
-# Queue-Deque-and-Stack Implementation
+# Queue-Deque-and-Stack Implementation (data structures and algorithms)
 
 This repository showcases my coursework project completed at the University of Wisconsin-River Falls for the Data Structures and Algorithms course. It encompasses the implementation of Queue, Deque, and Stack data structures in Java.
 
